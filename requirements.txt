@@ -1,0 +1,7 @@
+scanpy
+squidpy
+anndata
+scikit-image
+openslide-python
+torch
+torchvision
